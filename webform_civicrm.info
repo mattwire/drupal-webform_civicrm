@@ -1,8 +1,9 @@
 name = Webform CiviCRM Integration
 description = A powerful, flexible, user-friendly form builder for CiviCRM.
 core = 7.x
+version = 7.x-4.99.20210210
 package = CiviCRM
 php = 7.0
-dependencies[] = civicrm (>=5.12)
+dependencies[] = civicrm (>=5.28)
 dependencies[] = webform (>=4.19)
 dependencies[] = options_element
